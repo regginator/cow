@@ -1,4 +1,4 @@
 {
-    "api": "https://api.wally.run/",
+    "api": "http://127.0.0.1:8000",
     "github_oauth_id": "303efbcc5de0ce475324"
 }
